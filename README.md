@@ -1,3 +1,3 @@
 ## Explore
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[![HackerRank](/badges/hackerrank.svg)](https://www.hackerrank.com/profile/otegecmis)
