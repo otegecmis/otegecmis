@@ -1,7 +1,3 @@
-## Explore
-
-[![HackerRank](/badges/hackerrank.svg)](https://www.hackerrank.com/profile/otegecmis)
-
 ## Tags
 
 - [iOS Apps](https://github.com/otegecmis?tab=repositories&q=topic:ios)
